@@ -1,0 +1,18 @@
+15, blank, 8, blank, 3, blank, 6, blank, 10, blank, 7, blank
+
+15, blank, blank, 14, blank, 9, blank, 12, blank, 4, blank, 7
+6, blank, 11, 11, 6, 11, blank, 6, 17, 7, 3, blank
+
+22, blank, 16, blank, 9, blank, 5, blank, 10, blank, 8, blank
+11, 26, 14, 1, 12, blank, 21, 6, 15, 4, 9, 18
+17, 4, 5, blank, 7, 8, 9, 13, 9, 7, 13, 21
+
+12, blank, 6, blank, 10, blank, 10, blank, 1, blank, 9, blank
+2, 13, 9, blank, 17, 19, 3, 12, 3, 26, 6, blank
+6, blank, 14, 12, 3, 8, 9, blank, 9, 20, 12, 3
+7, 14, 11, blank, 8, blank, 16, 2, 7, blank, 9, blank
+
+16, 8, 7, 8, 8, 3, 4, 12, 2, 5, 10, 7
+21, 21, 9, 9, 4, 4, 6, 6, 3, 3, 14, 14
+12, 13, 14, 15, 4, 5, 6, 7, 8, 9, 10, 11
+11, 14, 11, 14, 11, 11, 14, 11, 14, 11, 14, 14
